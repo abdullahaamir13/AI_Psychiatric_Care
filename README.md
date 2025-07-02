@@ -16,14 +16,18 @@ As the leader of this research, I (M Abdullah Aamir) coordinated the team, overs
 
 - `AI_Psychiatric_Care_Research_Paper.pdf`: The final research paper in PDF format.
 
-## Current Work: MVP Chatbot for Local Mental Health (Pakistan)
+## Current Work: PsychCareAI - Mental Health Analysis Platform
 
-Building on this research, I am currently developing a Minimum Viable Product (MVP) chatbot tailored for local mental health support in Pakistan. The chatbot aims to:
-- Provide early detection of mental health issues using text and voice inputs.
-- Offer personalized coping strategies and referrals to local resources.
-- Address cultural nuances and accessibility challenges in underserved regions.
+[PsychCareAI](https://github.com/abdullahaamir13/PsychCareAI) is an interactive web-based application designed to analyze mental health data and predict psychiatric disorders using advanced machine learning models. Built with **Streamlit**, the platform enables real-time psychiatric risk profiling, model-driven diagnosis support, and clinical reporting.
 
-This MVP is in the early stages, focusing on integrating NLP techniques and simple AI models to support users in Urdu and English, with plans for real-time monitoring and scalability.
+### 🔍 Key Features
+- **Patient Data Input**: Collects clinical, behavioral, demographic, and NLP-derived data.
+- **Risk Assessment**: Computes multi-domain psychiatric risk using patient indicators.
+- **ML-Based Predictions**: Integrates models like **CatBoost**, **LightGBM**, **XGBoost**, and **Random Forest** to forecast psychiatric conditions.
+- **Interactive Dashboard**: Displays system health, model metrics, and activity logs.
+- **AI Chatbot (MVP)**: Early-stage bilingual chatbot (English/Urdu) for patient interaction and symptom capture.
+
+📁 **Repository**: [github.com/abdullahaamir13/PsychCareAI](https://github.com/abdullahaamir13/PsychCareAI)
 
 ## Prerequisites
 
