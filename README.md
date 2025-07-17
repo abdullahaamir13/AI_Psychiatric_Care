@@ -20,7 +20,7 @@ As the leader of this research, I (M Abdullah Aamir) coordinated the team, overs
 
 [PsychCareAI](https://github.com/abdullahaamir13/PsychCareAI) is an interactive web-based application designed to analyze mental health data and predict psychiatric disorders using advanced machine learning models. Built with **Streamlit**, the platform enables real-time psychiatric risk profiling, model-driven diagnosis support, and clinical reporting.
 
-### 🔍 Key Features
+### Key Features
 - **Patient Data Input**: Collects clinical, behavioral, demographic, and NLP-derived data.
 - **Risk Assessment**: Computes multi-domain psychiatric risk using patient indicators.
 - **ML-Based Predictions**: Integrates models like **CatBoost**, **LightGBM**, **XGBoost**, and **Random Forest** to forecast psychiatric conditions.
